@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: aa34505169153d14fa5e36ddd2c81509
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3319157002868110310
+    second: Tower2D_0
+  - first:
+      213: 2909290559931210902
+    second: Tower2D_1
+  - first:
+      213: 3289452985071671099
+    second: Tower2D_2
+  - first:
+      213: -8809053684667392002
+    second: Tower2D_3
+  - first:
+      213: 5123400065944977617
+    second: Tower2D_4
+  - first:
+      213: 1445258701468889290
+    second: Tower2D_5
+  - first:
+      213: 5186114474950438484
+    second: Tower2D_6
+  - first:
+      213: 7223024204415040754
+    second: Tower2D_7
+  - first:
+      213: -3494921605158342218
+    second: Tower2D_8
+  - first:
+      213: 265658599320223822
+    second: Tower2D_9
+  - first:
+      213: 1853092619390047978
+    second: Tower2D_10
+  - first:
+      213: -3107576650619799542
+    second: Tower2D_11
+  - first:
+      213: 3460429090903679486
+    second: Tower2D_12
+  - first:
+      213: 9120274379237691355
+    second: Tower2D_13
+  - first:
+      213: -3651921105467850915
+    second: Tower2D_14
+  - first:
+      213: 323637712914843522
+    second: Tower2D_15
+  - first:
+      213: -6907796041280812186
+    second: Tower2D_16
+  - first:
+      213: 1887652343778834704
+    second: Tower2D_17
+  - first:
+      213: -7009779978817009809
+    second: Tower2D_18
+  - first:
+      213: 4096492378084914560
+    second: Tower2D_19
+  - first:
+      213: -7200491308862934791
+    second: Tower2D_20
+  - first:
+      213: 2256764968416453473
+    second: Tower2D_21
+  - first:
+      213: 2649511509281375636
+    second: Tower2D_22
+  - first:
+      213: -2895386546444209608
+    second: Tower2D_23
+  - first:
+      213: -1798689877892293115
+    second: Tower2D_24
+  - first:
+      213: 8668195255935417754
+    second: Tower2D_25
+  - first:
+      213: -3472243857912344221
+    second: Tower2D_26
+  - first:
+      213: 8967219615840560476
+    second: Tower2D_27
+  - first:
+      213: -1754650450717958786
+    second: Tower2D_28
+  - first:
+      213: 2691013393313418225
+    second: Tower2D_29
+  - first:
+      213: 3872485582223118852
+    second: Tower2D_30
+  - first:
+      213: -6162796254577423774
+    second: Tower2D_31
+  - first:
+      213: -8262774392216651706
+    second: Tower2D_32
+  - first:
+      213: -4187274997681812806
+    second: Tower2D_33
+  - first:
+      213: 3523583190045242016
+    second: Tower2D_34
+  - first:
+      213: -1738013212393079897
+    second: Tower2D_35
+  - first:
+      213: 3005797996910580162
+    second: Tower2D_36
+  - first:
+      213: 212953606396758240
+    second: Tower2D_37
+  - first:
+      213: 8924543609789258473
+    second: Tower2D_38
+  - first:
+      213: 6107320880903092080
+    second: Tower2D_39
+  - first:
+      213: -6270452749345493682
+    second: Tower2D_40
+  - first:
+      213: 190767457144195339
+    second: Tower2D_41
+  - first:
+      213: 7886505034486277985
+    second: Tower2D_42
+  - first:
+      213: -954849718746497532
+    second: Tower2D_43
+  - first:
+      213: 980926961468373535
+    second: Tower2D_44
+  - first:
+      213: -3921466946170430808
+    second: Tower2D_45
+  - first:
+      213: -5622422695798679835
+    second: Tower2D_46
+  - first:
+      213: 6835754301323299802
+    second: Tower2D_47
+  - first:
+      213: 466332457084400222
+    second: Tower2D_48
+  - first:
+      213: 1065543634204583720
+    second: Tower2D_49
+  - first:
+      213: -9053179595175160555
+    second: Tower2D_50
+  - first:
+      213: -2965585449696134780
+    second: Tower2D_51
+  - first:
+      213: -6480743980392400212
+    second: Tower2D_52
+  - first:
+      213: -1669567095487559038
+    second: Tower2D_53
+  - first:
+      213: 5716098243726711984
+    second: Tower2D_54
+  - first:
+      213: 7844198329974164015
+    second: Tower2D_55
+  - first:
+      213: 8566733716863020966
+    second: Tower2D_56
+  - first:
+      213: -4097652684705196290
+    second: Tower2D_57
+  - first:
+      213: -51350395954166422
+    second: Tower2D_58
+  - first:
+      213: -2524148796901570551
+    second: Tower2D_59
+  - first:
+      213: 3894948042648706925
+    second: Tower2D_60
+  - first:
+      213: 4570147400654230239
+    second: Tower2D_61
+  - first:
+      213: -162195867293253228
+    second: Tower2D_62
+  - first:
+      213: -8915772308422294662
+    second: Tower2D_63
+  - first:
+      213: 8490043914354185226
+    second: Tower2D_64
+  - first:
+      213: -1171061819800873973
+    second: Tower2D_65
+  - first:
+      213: 8219505118709138333
+    second: Tower2D_66
+  - first:
+      213: 3711576932239551908
+    second: Tower2D_67
+  - first:
+      213: 5454153229424497402
+    second: Tower2D_68
+  - first:
+      213: 1566725232049515037
+    second: Tower2D_69
+  - first:
+      213: -8162432244599144210
+    second: Tower2D_70
+  - first:
+      213: -7732027739731691253
+    second: Tower2D_71
+  - first:
+      213: -5721167100302904874
+    second: Tower2D_72
+  - first:
+      213: 7565265524896753196
+    second: Tower2D_73
+  - first:
+      213: -1346969953602499467
+    second: Tower2D_74
+  - first:
+      213: 9042595623700501998
+    second: Tower2D_75
+  - first:
+      213: -9077818164119685546
+    second: Tower2D_76
+  - first:
+      213: 2621206118928424651
+    second: Tower2D_77
+  - first:
+      213: 5835720676088731488
+    second: Tower2D_78
+  - first:
+      213: 1240298113705612695
+    second: Tower2D_79
+  - first:
+      213: 347977832244825974
+    second: Tower2D_80
+  - first:
+      213: 8214491941113529809
+    second: Tower2D_81
+  - first:
+      213: 1625037899484881086
+    second: Tower2D_82
+  - first:
+      213: -2536928257848011141
+    second: Tower2D_83
+  - first:
+      213: -4801735165878192844
+    second: Tower2D_84
+  - first:
+      213: -573022345962697927
+    second: Tower2D_85
+  - first:
+      213: 7041303990242150993
+    second: Tower2D_86
+  - first:
+      213: 2981337768100551308
+    second: Tower2D_87
+  - first:
+      213: 8429988192104117079
+    second: Tower2D_88
+  - first:
+      213: -4542851504407484736
+    second: Tower2D_89
+  - first:
+      213: -7859399096529562919
+    second: Tower2D_90
+  - first:
+      213: -1642375275279718749
+    second: Tower2D_91
+  - first:
+      213: -4436796885611383486
+    second: Tower2D_92
+  - first:
+      213: 5838068369993473407
+    second: Tower2D_93
+  - first:
+      213: 7493218059738793879
+    second: Tower2D_94
+  - first:
+      213: -6954226885144086121
+    second: Tower2D_95
+  - first:
+      213: -898042336116454408
+    second: Tower2D_96
+  - first:
+      213: -8696523965947146524
+    second: Tower2D_97
+  - first:
+      213: -16907159060913464
+    second: Tower2D_98
+  - first:
+      213: -7984546522195913829
+    second: Tower2D_99
+  - first:
+      213: -378936269848351534
+    second: Tower2D_100
+  - first:
+      213: 8084886380075758064
+    second: Tower2D_101
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tower2D_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e334bd55b3001e20800000000000000
+      internalID: 3319157002868110310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cd815a950ef5820800000000000000
+      internalID: 2909290559931210902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379b88cf0c76ad20800000000000000
+      internalID: 3289452985071671099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effdd0e9854ffb580800000000000000
+      internalID: -8809053684667392002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00ddc0739f91740800000000000000
+      internalID: 5123400065944977617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07895b1279e0410800000000000000
+      internalID: 1445258701468889290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eaee343a7c8f740800000000000000
+      internalID: 5186114474950438484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf434ae365d3460800000000000000
+      internalID: 7223024204415040754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f2b6215b8f7fc0800000000000000
+      internalID: -3494921605158342218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40820ca61fcfa300800000000000000
+      internalID: 265658599320223822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae654a25be187b910800000000000000
+      internalID: 1853092619390047978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08328b308bafd4d0800000000000000
+      internalID: -3107576650619799542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower2D_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1edbd8ce9e50030800000000000000
+      internalID: 3460429090903679486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
